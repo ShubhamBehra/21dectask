@@ -1,0 +1,2 @@
+a critical bug is fixed in master branch 
+
